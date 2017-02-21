@@ -1,0 +1,2 @@
+# libev
+libev是libevent之后的一个事件驱动的编程框架，其接口和libevent基本类似,其性能比libevent还要高，bug比libevent还少。
